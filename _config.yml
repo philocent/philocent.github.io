@@ -1,0 +1,46 @@
+# Site settings
+title:          PhilMaker
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:   #     "/"
+url:       #     "http://localhost:4000/"
+
+
+# Author
+author:
+  name:         JB Mark LEE
+  url:          http://blog.philocent.io
+  email:        philocent@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+theme: tale
+
+# Permalinks
+permalink:      /posts/:year-:month-:day/:title
+paginate:       5
+
+defaults:
+    -
+        scope: 
+            path: ""
+        values:
+            layout: "default"
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values: 
+            layout: "post"
+            author: "philocent"
