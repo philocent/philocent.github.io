@@ -1,15 +1,19 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "philocent"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+![Placeholder image](../assets/about_image.png "Placeholder image")
+## 블로그 컨셉
+Simple 
+## 테마 및 폰트
+* 테마 : [tale](https://github.com/chesterhow/tale)
+* 폰트 
+1. [우아한형제들 Jua](http://font.woowahan.com/jua/)
+2. [네이버 나눔고딕](http://hangeul.naver.com/2017/nanum)
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+## 하는 일
+시스템 운영, 개발 및 공부
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
