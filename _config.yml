@@ -4,7 +4,6 @@ description:    "Minimal Jekyll theme for storytellers"
 baseurl:   #     "/"
 url:       #     "http://localhost:4000/"
 
-
 # Author
 author:
   name:         JB Mark LEE
@@ -28,6 +27,7 @@ plugins:
 # Permalinks
 permalink:      /posts/:year-:month-:day/:title
 paginate:       5
+
 
 defaults:
     -
