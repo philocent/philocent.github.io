@@ -29,6 +29,7 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    font-weight: bold;
 
     &:hover,
     &:focus {
@@ -62,7 +63,7 @@ footer,
 
   a {
     color: $default-color;
-    font-family: "Jua", $sans-serif;
+    font-family: "Nanum Gothic Coding", $sans-serif;
   }
 }
 
